@@ -1,0 +1,14 @@
+C:\Users\FG Tecnomania\c#\CarRent\bin\Debug\net8.0\CarRent.exe
+C:\Users\FG Tecnomania\c#\CarRent\bin\Debug\net8.0\CarRent.deps.json
+C:\Users\FG Tecnomania\c#\CarRent\bin\Debug\net8.0\CarRent.runtimeconfig.json
+C:\Users\FG Tecnomania\c#\CarRent\bin\Debug\net8.0\CarRent.dll
+C:\Users\FG Tecnomania\c#\CarRent\bin\Debug\net8.0\CarRent.pdb
+C:\Users\FG Tecnomania\c#\CarRent\obj\Debug\net8.0\CarRent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FG Tecnomania\c#\CarRent\obj\Debug\net8.0\CarRent.AssemblyInfoInputs.cache
+C:\Users\FG Tecnomania\c#\CarRent\obj\Debug\net8.0\CarRent.AssemblyInfo.cs
+C:\Users\FG Tecnomania\c#\CarRent\obj\Debug\net8.0\CarRent.csproj.CoreCompileInputs.cache
+C:\Users\FG Tecnomania\c#\CarRent\obj\Debug\net8.0\CarRent.dll
+C:\Users\FG Tecnomania\c#\CarRent\obj\Debug\net8.0\refint\CarRent.dll
+C:\Users\FG Tecnomania\c#\CarRent\obj\Debug\net8.0\CarRent.pdb
+C:\Users\FG Tecnomania\c#\CarRent\obj\Debug\net8.0\CarRent.genruntimeconfig.cache
+C:\Users\FG Tecnomania\c#\CarRent\obj\Debug\net8.0\ref\CarRent.dll
